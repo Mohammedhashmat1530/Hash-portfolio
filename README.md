@@ -6,10 +6,10 @@ I created this website with the primary objective of showcasing my work & skills
 
 ## 📷Screenshots
 
-![Landing page](https://drive.google.com/uc?export=view&id=1x9Xj5yPDKgwr83lDhCpp_8BnOzzFKfBh)
+<!-- ![Landing page](https://drive.google.com/uc?export=view&id=1x9Xj5yPDKgwr83lDhCpp_8BnOzzFKfBh) -->
 
-
-![Landing page Light](https://drive.google.com/uc?export=view&id=1S7SM9Q1CRScu0cbdbVqtVfPewR8tVB9k)
+<!-- 
+![Landing page Light](https://drive.google.com/uc?export=view&id=1S7SM9Q1CRScu0cbdbVqtVfPewR8tVB9k) -->
 
 ## 💻Technologies
 
