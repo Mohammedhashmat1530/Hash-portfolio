@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import styled from 'styled-components'
 import {Tooltip} from 'react-tooltip'
 import Typewriter from 'typewriter-effect'
-import { GiCoffeeMug } from "react-icons/gi";
+import { GiSodaCan } from "react-icons/gi";
 import 'react-tooltip/dist/react-tooltip.css'
 
 import CoverImage from '../assets/landing-image.jsx'
@@ -33,7 +33,8 @@ export const Landing = () => {
                 </Tooltip>
                 My Name is
             </Hello>
-            <Name>Mohammed Hashmat.</Name>
+            <Name>Mohammed Hashmat</Name>
+            
             <TypingIntro>
                 <span>I </span>
                 <Typewriter 
@@ -48,11 +49,16 @@ export const Landing = () => {
                 />
             </TypingIntro>
             <DetailedIntro>
-                    I am an aspiring Software Developer. 
+                    you can call me <span style={{
+                        color:"red",
+                        opacity: "1",
+                        fontWeight: "bold"
+                        
+                        }}>Hash</span>,I am an aspiring Software Developer. 
                     I constantly learn and develop new things related to web.
                     You will often find me solving coding problems, with Sting 
                     
-                    <GiCoffeeMug id='coffee' style={{cursor: 'pointer'}}/>
+                    <GiSodaCan id='coffee' style={{cursor: 'pointer'}}/>
                     <Tooltip 
                         anchorSelect='#coffee' 
                         className='tooltip'
@@ -73,7 +79,7 @@ export const Landing = () => {
                 <a href='mailto:mdhash2003@gmail.com'>
                     <Button inverted theme={theme}> Hire Me!</Button>
                 </a>
-                <a href='https://drive.google.com/file/d/1wCWxyPeto5Cvo0B9giiZNE0pAwdRKHKS/view?usp=sharing' target='_blank' rel='noopener noreferrer'><Button theme={theme}> Resume </Button></a>
+                <a href='https://drive.google.com/file/d/1xtebmipbHkUNhIhhZJx7lbMyMoCh51sl/view' target='_blank' rel='noopener noreferrer'><Button theme={theme}> Resume </Button></a>
             </CalltoAction>
         </IntroCard>
 

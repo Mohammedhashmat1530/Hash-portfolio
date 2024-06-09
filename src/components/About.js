@@ -48,7 +48,12 @@ export const About = () => {
             </div>
             <div className="about">
                 <p>
-                    My name is Mohammed Hashmat, and I am currently pursuing a degree in Computer Science (almost complete 🙂). 
+                    I am <span style={{
+                        color:"red",
+                        opacity: "1",
+                        fontWeight: "bold"
+                        
+                        }}>Hash</span>, and I am currently pursuing a degree in Computer Science (almost complete 🙂). 
                     I have a keen interest in Problem Solving, Web Development, and Software Development, and have been learning about these topics for the past four years.
                     Although I am not yet an expert, I have gained a solid foundation in various areas of computer science, 
                     starting from my first program in 2019 to more advanced topics like Machine Learning.

@@ -19,7 +19,7 @@ export const SocialLinks = () => {
               <a target={"_blank"} rel='noopener noreferrer' href="https://x.com/hashmatmohamme1"><SiTwitter/></a>
             </li>
             <li>
-              <a  rel='noopener noreferrer' href="/"><SiWhatsapp /></a>
+              <a   target={"_blank"} rel='noopener noreferrer' href="https://wa.me/qr/QBOOY23KF36AJ1 "><SiWhatsapp /></a>
             </li>
             <li>
               <a  rel='noopener noreferrer' href="/"><SiSlack/></a>

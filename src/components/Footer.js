@@ -1,11 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
-import { BsSuitHeart } from "react-icons/bs";
+
+import { FcLike } from "react-icons/fc"
 
 export const Footer = () => {
   return (
     <Container className="container"> 
-        Coded with <BsSuitHeart className='heart'> </BsSuitHeart> by Hash
+        Coded with <FcLike  className='heart'> </FcLike > by Hash
     </Container>
   )
 }

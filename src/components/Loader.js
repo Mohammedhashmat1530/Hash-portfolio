@@ -6,8 +6,8 @@ export const Loader = () => {
     <Component>
         <div>
             <span className="left-arrow"> &lt;</span> 
-                Mohammed Hashmat
-            <span className="right-arrow">&gt; </span>
+                Md Hashmat
+            <span className="right-arrow">&#47;&gt; </span>
         </div>
     </Component>
   )

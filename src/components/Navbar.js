@@ -16,7 +16,7 @@ export const Navbar = () => {
             <Heading>
                 <span className="left-arrow"> &lt;</span> 
                     Mohammed Hashmat
-                <span className="right-arrow">&gt; </span>
+                <span className="right-arrow">&#47;&gt; </span>
             </Heading>
         </Title>
         <Options>

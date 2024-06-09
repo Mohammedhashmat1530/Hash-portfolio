@@ -21,6 +21,7 @@ export const ProjectCard = ({project}) => {
                 src={project.image}
                 alt={project.title}
             />
+      
         </div>
         <div className='desc'>
             <h4 className='header'>{project.title}</h4>
